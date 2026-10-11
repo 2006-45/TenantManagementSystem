@@ -98,7 +98,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="@{tenant.summary()}"
-            android:hint="Saved tenant will appear here"
+            android:hint="@string/saved_tenant_will_appear"
             android:textSize="18sp"
             android:padding="16dp"
             android:layout_margin="24dp"

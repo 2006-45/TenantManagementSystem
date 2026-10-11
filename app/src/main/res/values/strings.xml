@@ -15,4 +15,5 @@
     <string name="password">Password</string>
     <string name="login" />
     <string name="call_tenant">CALL TENANT</string>
+    <string name="saved_tenant_will_appear">Saved tenant will appear here</string>
 </resources>
