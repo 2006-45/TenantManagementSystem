@@ -8,4 +8,11 @@
     <string name="enter_rent_paid">Enter Rent Paid</string>
     <string name="save">SAVE</string>
     <string name="saved_tenant_will_appear_here">Saved tenant will appear here</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="login" />
+    <string name="call_tenant">CALL TENANT</string>
 </resources>
