@@ -16,4 +16,6 @@
     <string name="login" />
     <string name="call_tenant">CALL TENANT</string>
     <string name="saved_tenant_will_appear">Saved tenant will appear here</string>
+    <string name="just_added">Just added</string>
+    <string name="all_tenants">All tenants</string>
 </resources>
